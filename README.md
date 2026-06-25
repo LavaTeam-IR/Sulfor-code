@@ -45,7 +45,7 @@
 **۲. دستور نصب رو توی CMD یا PowerShell اجرا کن:**
 
 ```cmd
-powershell -Command "Invoke-WebRequest -Uri 'https://lavateam_IR.github.io/sulfor-code/install.bat' -OutFile 'install.bat'" && install.bat
+powershell -Command "Invoke-WebRequest -Uri 'https://lavateam-IR.github.io/sulfor-code/install.bat' -OutFile 'install.bat'" && install.bat
 ```
 
 **۳. اجرا کن:**
@@ -69,7 +69,7 @@ brew install python3
 **۲. دستور نصب رو توی Terminal اجرا کن:**
 
 ```bash
-curl -sSL https://lavateam_IR.github.io/sulfor-code/install.sh | bash
+curl -sSL https://lavateam-IR.github.io/sulfor-code/install.sh | bash
 ```
 
 **۳. ترمینال رو ببند و دوباره باز کن، بعد اجرا کن:**
@@ -98,7 +98,7 @@ sudo pacman -S python python-pip
 **۲. دستور نصب رو اجرا کن:**
 
 ```bash
-curl -sSL https://lavateam_IR.github.io/sulfor-code/install.sh | bash
+curl -sSL https://lavateam-IR.github.io/sulfor-code/install.sh | bash
 ```
 
 **۳. اجرا کن:**
@@ -191,7 +191,7 @@ Download from [python.org](https://python.org/downloads).
 **2. Run this in CMD or PowerShell:**
 
 ```cmd
-powershell -Command "Invoke-WebRequest -Uri 'https://lavateam_IR.github.io/sulfor-code/install.bat' -OutFile 'install.bat'" && install.bat
+powershell -Command "Invoke-WebRequest -Uri 'https://lavateam-IR.github.io/sulfor-code/install.bat' -OutFile 'install.bat'" && install.bat
 ```
 
 **3. Run:**
@@ -213,7 +213,7 @@ brew install python3
 **2. Run in Terminal:**
 
 ```bash
-curl -sSL https://lavateam_IR.github.io/sulfor-code/install.sh | bash
+curl -sSL https://lavateam-IR.github.io/sulfor-code/install.sh | bash
 ```
 
 **3. Restart terminal, then run:**
@@ -242,7 +242,7 @@ sudo pacman -S python python-pip
 **2. Run installer:**
 
 ```bash
-curl -sSL https://lavateam_IR.github.io/sulfor-code/install.sh | bash
+curl -sSL https://lavateam-IR.github.io/sulfor-code/install.sh | bash
 ```
 
 **3. Run:**
